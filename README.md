@@ -6,7 +6,7 @@
 🎓 **Educação:**  
 - Cursando o curso de **Desenvolvimento de Sistemas**   
 - Aprendendo **Portugol**
-- Atualmente no 1º ano do ensino medio
+- Atualmente no **1º ano do ensino medio**
 
 🎭 **Experiências:**  
 - Já fiz **teatro**  
