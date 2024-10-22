@@ -10,7 +10,7 @@
 
 🎭 **Experiências:**  
 - Já fiz **teatro**  
-- Apaixonado por **fotografia**  
+- Cursei **fotografia**  
 
 🎨 **Interesses:**  
 - Grande fã de **arte**  
