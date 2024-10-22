@@ -1,8 +1,24 @@
-# Olá, eu sou Rafael
-- 👨🏿‍🏫 Atualmente trabalho como Docente no Senac DF
-- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, WordPress, PHP, Java, Python e Banco de Dados
-- 📽️ Procuro colaborar no desenvolvimento de projetos
-- 🧑🏿‍💻 Pergunte-me sobre Desenvolvimento de Sistemas
+# Olá, meu nome é Ruan, mas prefiro ser chamado de **Rhune!**
+
+🎂 **Idade:** 
+- 16 anos (meu aniversario é em 29 de agosto)  
+
+🎓 **Educação:**  
+- Cursando o curso de **Desenvolvimento de Sistemas**   
+- Aprendendo **Portugol**
+- Atualmente no 1º ano do ensino medio
+
+🎭 **Experiências:**  
+- Já fiz **teatro**  
+- Apaixonado por **fotografia**  
+
+🎨 **Interesses:**  
+- Grande fã de **arte**  
+
+🌍 **Linguagens:**  
+- Fluente em **Português**  
+- Intermediário em **Espanhol**  
+- Aprendendo um pouco de **Inglês**
 
  <div style="display: inline_block">
   <br>
@@ -19,7 +35,7 @@
   
   ##
  <div> 
-  <a href="https://www.linkedin.com/in/rafael-do-sacramento-bomfim-9150784b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/ruan-carlos-zuza-pires-8a0b53323" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:rafaelrfe@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/rafaelrfe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
@@ -35,10 +51,7 @@
 
 
 
-
-
-
- ### TROPHIES
+### TROPHIES
  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DocenteDevRafael&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
